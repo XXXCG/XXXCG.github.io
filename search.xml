@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>关于博客搭建和美化计划</title>
+      <link href="/2024/06/13/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%92%8C%E7%BE%8E%E5%8C%96%E8%AE%A1%E5%88%92/"/>
+      <url>/2024/06/13/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%92%8C%E7%BE%8E%E5%8C%96%E8%AE%A1%E5%88%92/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>因为自己跟着Fomalhaut老师搭建了一个个人博客网站，老师讲的很明白但有部分内容已经不是最新的了<br>同时也想兼顾一下没有前端代码知识的同学们，所以我决定写这篇博客把这些内容讲清楚，讲明白</p></blockquote><h1 id="1-前言"><a href="#1-前言" class="headerlink" title="1.前言"></a>1.前言</h1><ul><li>博客搭建过程遇到任何问题，优先在本页面搜索，检查是否已经有该配置教程。</li><li>遇到问题可以优先在文章评论区留言，注意留言时请填写正确的邮箱以确保能收到站长的回复。</li><li>实在解决不了的问题可添加站长的QQ进行交流，备注自己的个人信息(当然站长也不一定会)。</li></ul><h1 id="2-前置准备"><a href="#2-前置准备" class="headerlink" title="2.前置准备"></a>2.前置准备</h1><p>首先你必须有的账号是:<strong>github账号</strong>, <strong>git账号</strong>, <strong>vecel账号</strong></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> HEXO </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>my_photo_test_blog</title>
       <link href="/2024/06/12/my-photo-test-blog/"/>
       <url>/2024/06/12/my-photo-test-blog/</url>
