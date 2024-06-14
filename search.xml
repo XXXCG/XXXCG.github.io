@@ -27,7 +27,7 @@
       <link href="/2024/06/12/my-photo-test-blog/"/>
       <url>/2024/06/12/my-photo-test-blog/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>错误率(error rate)：分类错误的样本数占样本总数的比例称为错误率<br>精度(accuracy)：精度 &#x3D; 1 - 错误率</p></blockquote><p>如果在m个样本中有a个样本分类错误，那么错误率 E &#x3D; a&#x2F;m，精度 &#x3D; 1 - E。<br>更一般地，把学习器的实际预测输出与样本的真实输出之间的差异称为**误差(error)**。<br>学习器在训练集上的误差称为 <strong>训练误差(training error)</strong> 或 **经验误差(empirical error)**，在新样本上的误差称为 **泛化误差(generalization error)**。</p><p>实际所希望的，是在新样本上能表现得很好的学习器，在这里引入两个重要概念：过拟合与欠拟合。</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>错误率(error rate)：分类错误的样本数占样本总数的比例称为错误率<br>精度(accuracy)：精度 = 1 - 错误率</p></blockquote><p>如果在m个样本中有a个样本分类错误，那么错误率 E = a/m，精度 = 1 - E。<br>更一般地，把学习器的实际预测输出与样本的真实输出之间的差异称为<strong>误差(error)</strong>。<br>学习器在训练集上的误差称为 <strong>训练误差(training error)</strong> 或 <strong>经验误差(empirical error)</strong>，在新样本上的误差称为 <strong>泛化误差(generalization error)</strong>。</p><p>实际所希望的，是在新样本上能表现得很好的学习器，在这里引入两个重要概念：过拟合与欠拟合。</p>]]></content>
       
       
       
